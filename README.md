@@ -1,6 +1,6 @@
 # CRED_Model
 
-Files of (or related to) the Credibility enhancing display (CRED) model.
+ODD+D protocols of the Credibility enhancing display (CRED) model and VISA model.
 
 The model is written in Anylogic 8.3.3
 
